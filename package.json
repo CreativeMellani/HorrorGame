@@ -1,0 +1,27 @@
+{
+  "name": "horrorgame",
+  "version": "1.0.0",
+  "description": "Horror themed choose your fate game",
+  "main": "MainIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreativeMellani/HorrorGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CreativeMellani/HorrorGame/issues"
+  },
+  "homepage": "https://github.com/CreativeMellani/HorrorGame#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.6.2",
+    "node-service-worker": "^2.1.2",
+    "nodemon": "^2.0.20",
+    "react": "^18.2.0"
+  }
+}
