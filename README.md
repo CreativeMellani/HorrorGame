@@ -10,7 +10,7 @@ Do you have any concerns?
 
 Name TBA Choose Your Adventure - “Murder Game’
 
-A tutorial adventure by Mellani Johnson, Kilisi Vasquez, and Jennyfer Constanza. Copyright 2022
+A tutorial adventure by Mellani Johnson, Kilisi Vazquez, and Jennyfer Constanza. Copyright 2022
 
 First-time players type “help”. (when type “help” there will be a “help prompt” that appears with information about the game / instructions )
 
